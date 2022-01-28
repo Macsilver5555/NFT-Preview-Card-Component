@@ -1,0 +1,114 @@
+*{
+    bottom: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background:hsl(217, 54%, 11%);
+    font-size: 18px;
+}
+
+.main_container{
+        margin: 35%;
+        padding: 15px;
+        width: 22em;
+        height: 100vh;
+        background: #fff;
+        border-radius:15px;
+        margin-top: 2em;
+        background-color: hsl(216, 50%, 16%);        
+        color: #fff;
+        box-shadow: -4px 4px -4px rgb(12, 11, 11);
+        position: relative;
+    } 
+
+    .imgf img {
+        border-radius: 10px;
+    }
+    
+    h4{
+        margin-top: 1.5em;
+        color:hsl(0, 0%, 100%);
+    }
+
+    p{
+        color:  hsl(0, 0%, 100%);
+
+    }
+
+
+    .eqilibrum-holder{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding-bottom: 10px;
+        border-bottom: 1px solid #f4f4f4;
+        margin-bottom: 1em;
+    }
+    .eth {
+        padding: 4px;
+    }
+
+    .days {
+        padding: 10px;
+    }
+    .sp{
+        padding-left: 6px;
+    }
+
+    .avi img {
+        width: 90px;
+        height: 80px;
+        display:flex;
+        align-items: center;
+        justify-content: space-between;
+        padding: 20px;
+        size: 40px;
+        border-radius: 50%;
+    }
+    
+
+    .creat{
+        float: right;
+        position: absolute;
+        top: 34.5em;
+        left:6em;
+        
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
